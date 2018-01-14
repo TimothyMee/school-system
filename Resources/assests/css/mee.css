@@ -1,0 +1,15 @@
+.input{
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.border{
+	margin-top: 20px;
+	padding: 20px;
+	border: 1px solid #3C4C52;
+	border-radius:10px;
+	box-shadow: 2px 2px 2px #3C4C52;
+}
+.black{
+	background-color:#252830;
+	color: white;
+}
